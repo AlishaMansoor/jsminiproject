@@ -1,0 +1,1 @@
+This project is about a game called simaon says in which player has to remember the sequence of the game , each and every time a new word get into its memory. The moment player enter the wrong order, game gets over. 
